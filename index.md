@@ -25,7 +25,7 @@ $ conda install pytorch torchvision torchaudio -c pytorch -n cddenv
 
 ## About our model
 
-The available datasets for maize are too small to be used in deep neural networks. To solve this problem we used a `Transfer Learning` strategy and reused some layers from a ResNet50 network trained on the ImageNet dataset, from `torchvision.models.resnet50`. Only the final layers of our network were trained, keeping the pre-trained layers constant. Our model shows good quality metrics. [ELABORAR]
+The available datasets for maize are too small to be used in deep neural networks. To solve this problem we used a `Transfer Learning` strategy and reused some layers from a ResNet50 network trained on the ImageNet dataset, from `torchvision.models.resnet50`. This network architecture has shown very promissing results in previous studies of machine vission for agriculture. Only the final layers of our network were trained, keeping the pre-trained layers constant. Our model shows good quality metrics. [ELABORAR]
 
 ## Support or Contact
 
