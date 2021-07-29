@@ -2,7 +2,8 @@
 
 ![CDD](./img/img.001.png)
 
-Maize is an important crop for the food security of many regions of the world. This species is affected by many plagues and diseases, such as the Common Rust and the Northern Blight, both caused by fungi. There have been many efforts to store information about diseases in databases for machine learning purposes. Perhaps, one of the most useful kinds of information we have about diseases are labeled picture databases. 
+Infectious diseases are a major threat to many important crops that guarantee food secutiry to many regions of the world. Over many years, around 60% of farmers in Ecuador have reported pre-harvest losses due to infectious agents such as fungi and bacteria, in crops like banana, cacao and potato. This project is an effort to develop an early disease detector as a *proof of concept*, using publicly available datasets of maize, a very well known species. 
+
 
 ### Markdown
 
