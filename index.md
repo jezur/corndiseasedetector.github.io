@@ -23,10 +23,10 @@ If you will only use CPU, then type
 $ conda install pytorch torchvision torchaudio -c pytorch -n cddenv
 ```
 
-### About our model
+## About our model
 
 The available datasets for maize are too small to be used in deep neural networks. To solve this problem we used a `Transfer Learning` strategy and reused some layers from a ResNet50 network trained on the ImageNet dataset, from `torchvision.models.resnet50`. Only the final layers of our network were trained, keeping the pre-trained layers constant. Our model shows good quality metrics. [ELABORAR]
 
-### Support or Contact
+## Support or Contact
 
 If you have any request of trouble using our model, please contact us to out email `ai2021grupo7[at]gmail.com`.
