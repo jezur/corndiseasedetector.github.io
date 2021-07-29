@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to CDD Main Page
 
 ![CDD](./img/img.001.png)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/corndiseasedetector/corndiseasedetector.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Maize is an important crop for the food security of many regions of the world. This species is affected by many plagues and diseases, such as the Common Rust and the Northern Blight, both caused by fungi. There have been many efforts to store information about diseases in databases for machine learning purposes. Perhaps, one of the most useful kinds of information we have about diseases are labeled picture databases. 
 
 ### Markdown
 
