@@ -7,7 +7,7 @@ Infectious diseases are a `major threat` to many crops of high importance for th
 
 ### Replicate our work
 
-If you wish to replicate our work, please download our `jupyter notebook` or clone this whole repository. We trained our NN using Google Cloud GPUs, so you could make a copy of the notebook to your Google Drive, or you can use your resources locally:
+If you wish to replicate our work, please download our `jupyter notebook` or clone this whole repository. We trained our NN using Google Cloud GPUs, so you could make a [copy of the notebook](https://drive.google.com/file/d/1IJNLBUoJIQpNhsha8eOib3POjOzjsd1M/view?usp=sharing) to your Google Drive, or you can use your resources locally:
 ```bash
 $ git clone https://github.com/corndiseasedetector/corndiseasedetector.github.io
 $ cd corndiseasedetector.github.io
