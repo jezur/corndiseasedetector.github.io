@@ -1,1 +1,9 @@
+title: Corn Disease Detector CDD
+email: ai2021grupo7[at]gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Corn Disease Detector CDD is a deep learning model which identifies
+  diseases in corn using machine vission.
+  
+github_username:  corndiseasedetector
+
 theme: jekyll-theme-modernist
