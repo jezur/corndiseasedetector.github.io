@@ -19,10 +19,6 @@ The `environment.yml` file only specifies packages to set up the working environ
 $ conda install pytorch torchvision cudatoolkit=10.2 -c pytorch -n cddenv
 ```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corndiseasedetector/corndiseasedetector.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any request of trouble using our model, please contact us to out email `ai2021grupo7[at]gmail.com`.
