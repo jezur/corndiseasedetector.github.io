@@ -13,7 +13,6 @@ $ git clone https://github.com/corndiseasedetector/corndiseasedetector.github.io
 $ cd corndiseasedetector.github.io
 $ conda env create -f environment.yml
 $ conda activate cddenv
-
 ```
 The `environment.yml` file only specifies packages to set up the working environment. Please, install the Pytorch version that suits you best inside the `cddenv` environment. If you plan to use your own GPUs, then type
 ```bash
