@@ -2,7 +2,7 @@
 
 ![CDD](./img/img.001.png)
 
-Infectious diseases are a major threat to many important crops that guarantee food secutiry to many regions of the world. Over many years, around 60% of farmers in Ecuador have reported pre-harvest losses due to infectious agents such as fungi and bacteria, in crops like banana, cacao and potato. This project is an effort to develop an early disease detector as a *proof of concept*, using publicly available datasets of maize, a very well known species. 
+Infectious diseases are a `major threat` to many important crops for the food secutiry of many regions arround the world. Over many years, around 60% of farmers in Ecuador have reported pre-harvest losses due to infectious agents such as fungi and bacteria, in crops like banana, cacao and potato. Outbreaks of infection could endager the country's economy and cause many people to loose their jobs. This project is an effort to develop an `early plant disease detector` as a *proof of concept*, using [publicly available datasets of maize](https://data.mendeley.com/datasets/tywbtsjrjv/1), a very well known species. In the future, we plan to expand this project to cover serveral 
 
 
 ### Markdown
