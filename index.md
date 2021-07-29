@@ -18,6 +18,10 @@ The `environment.yml` file only specifies packages to set up the working environ
 ```bash
 $ conda install pytorch torchvision cudatoolkit=10.2 -c pytorch -n cddenv
 ```
+If you will only use CPU, then type
+```bash
+$ conda install pytorch torchvision torchaudio -c pytorch -n cddenv
+```
 
 ### Support or Contact
 
