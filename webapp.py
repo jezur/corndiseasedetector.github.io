@@ -94,8 +94,8 @@ def predict_nocuda(image, model, topk=3):
 st.title('Corn Disease Detector (CDD)')
 st.write(
     '''
-    ## Deep Learning API
-    Welcome to the CDD API. Here you can predict wether the leaf of a maize
+    ## Deep Learning Web APP
+    Welcome to the CDD Web APP. Here you can predict wether the leaf of a maize
     plant is healthy or if it has the `common rust` or the `northern blight`. 
     '''
     )
