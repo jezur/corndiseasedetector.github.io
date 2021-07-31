@@ -14,6 +14,7 @@ The main library used to build our model was [Pytorch](https://pytorch.org/) and
 
 The loss and accuracy of training and validation datasets are shown below:
 
+![Loss_accuracy](./img/loss_accuracy.png)
 
 In both datasets the loss decreased and the accuracy increased through training epochs, as we expected. Also, validation loss values were less than the training counterpart and accuracy had the oposite behaviour, which means that is not likely that our model is overfitting. 
 
