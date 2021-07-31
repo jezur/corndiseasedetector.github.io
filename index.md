@@ -62,6 +62,6 @@ Now, you can test the app locally with your own images.
 
 If you wish to replicate our work, you could make a [`copy of the jupyter notebook`](https://drive.google.com/file/d/1IJNLBUoJIQpNhsha8eOib3POjOzjsd1M/view?usp=sharing) we used to build, train, and test our model, to your Google Drive and run it with Google Colab. Also, you can run the notebook in your computer if you have GPUs, or make the proper changes to work with CPUs. 
 
-## Support or Contact
+### Support or Contact
 
 If you have any request of trouble using our model, please contact us to out email `ai2021grupo7[at]gmail.com`.
