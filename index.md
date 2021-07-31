@@ -56,7 +56,9 @@ When the installation finished, run this command:
 $ streamlit run https://github.com/corndiseasedetector/corndiseasedetector.github.io/blob/main/webapp.py
 ```
 
-Now, you can test the app locally with your own images. 
+Now, you can test the app locally with your own images. The app will look like this when active thorugh Streamlit.
+
+![CDD](./img/strlt.png)
 
 
 ### Replicate our work
